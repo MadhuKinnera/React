@@ -1,0 +1,61 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+#input-div{
+width:50%;
+margin:auto;
+margin-top:10%;
+}
+
+#input-div h3{
+    text-align: center;
+    color: crimson;
+    font-size: 25px;
+    font-family:monospace;
+}
+
+#input-div input{
+    padding:8px 15px;
+    border-radius: 10px;
+    margin:5% 9%;
+    margin-left:30%;
+    text-align: center;
+}
+
+#input-div button{
+    cursor: pointer;
+    padding:8px 20px;
+    border-radius: 12px;
+    background-color: blue;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#input-div button:hover{
+    background-color: wheat;
+    color:black;
+}
+
+
+#container{
+    display:block;
+}
+
+#container > div{
+    width:30%;
+    margin:10px auto;
+    display: flex;
+    justify-content: space-evenly;   
+}
+
+#container > div > h2{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#container > div > button{
+    padding:6px 20px;
+    font-family:monospace;
+    cursor: pointer;
+}

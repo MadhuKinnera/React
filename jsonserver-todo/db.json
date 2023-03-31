@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "todo": "TODO-1",
+      "status": true
+    },
+    {
+      "id": 1680291624762,
+      "status": true,
+      "todo": "TODO-2"
+    },
+    {
+      "id": 1680291640762,
+      "status": true,
+      "todo": "TODO-3"
+    },
+    {
+      "id": 1680291705000,
+      "status": true,
+      "todo": "TODO-4"
+    }
+  ]
+}
